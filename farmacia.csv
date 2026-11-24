@@ -1,0 +1,61 @@
+id_medicamento,nombre_medicamento,cantidad_dispensada,costo_unitario,fecha_dispensacion
+MED-03,Amoxicilina 500mg,8,12000.0,2026-06-01
+MED-11,Azitromicina 500mg,2,15400.0,2026-06-07
+MED-07,Loratadina 10mg,5,2500.0,2026-06-17
+MED-04,Ibuprofeno 400mg,12,2800.0,2026-06-18
+MED-13,Diclofenaco 50mg,5,2200.0,2026-06-21
+MED-01,Acetaminofén 500mg,1,1500.0,2026-06-24
+MED-09,Salbutamol Inhalador 100mcg,8,18500.0,2026-06-24
+MED-02,Losartán 50mg,7,4500.0,2026-06-25
+MED-14,Hidrocortisona Crema 1%,4,9500.0,2026-06-26
+MED-13,Diclofenaco 50mg,6,2200.0,2026-06-27
+MED-04,Ibuprofeno 400mg,3,2800.0,2026-06-27
+MED-13,Diclofenaco 50mg,1,2200.0,2026-06-29
+MED-14,Hidrocortisona Crema 1%,1,9500.0,2026-06-30
+MED-06,Omeprazol 20mg,4,3200.0,2026-07-06
+MED-03,Amoxicilina 500mg,5,12000.0,2026-07-06
+MED-03,Amoxicilina 500mg,11,12000.0,2026-07-11
+MED-05,Metformina 850mg,1,3900.0,2026-07-11
+MED-11,Azitromicina 500mg,6,15400.0,2026-07-12
+MED-06,Omeprazol 20mg,6,3200.0,2026-07-24
+MED-05,Metformina 850mg,3,3900.0,2026-07-26
+MED-14,Hidrocortisona Crema 1%,1,9500.0,2026-07-29
+MED-01,Acetaminofén 500mg,11,1500.0,2026-07-29
+MED-03,Amoxicilina 500mg,9,12000.0,2026-08-02
+MED-12,Naproxeno 250mg,5,3100.0,2026-08-02
+MED-12,Naproxeno 250mg,12,3100.0,2026-08-07
+MED-11,Azitromicina 500mg,9,15400.0,2026-08-08
+MED-02,Losartán 50mg,9,4500.0,2026-08-15
+MED-04,Ibuprofeno 400mg,10,2800.0,2026-08-20
+MED-14,Hidrocortisona Crema 1%,1,9500.0,2026-08-20
+MED-04,Ibuprofeno 400mg,11,2800.0,2026-08-23
+MED-12,Naproxeno 250mg,7,3100.0,2026-08-27
+MED-13,Diclofenaco 50mg,11,2200.0,2026-08-27
+MED-09,Salbutamol Inhalador 100mcg,2,18500.0,2026-09-05
+MED-03,Amoxicilina 500mg,8,12000.0,2026-09-06
+MED-10,Enalapril 20mg,2,3600.0,2026-09-07
+MED-07,Loratadina 10mg,10,2500.0,2026-09-11
+MED-12,Naproxeno 250mg,9,3100.0,2026-09-16
+MED-13,Diclofenaco 50mg,11,2200.0,2026-09-17
+MED-02,Losartán 50mg,10,4500.0,2026-09-17
+MED-02,Losartán 50mg,5,4500.0,2026-09-20
+MED-07,Loratadina 10mg,5,2500.0,2026-09-25
+MED-05,Metformina 850mg,1,3900.0,2026-09-26
+MED-07,Loratadina 10mg,11,2500.0,2026-09-26
+MED-07,Loratadina 10mg,10,2500.0,2026-09-28
+MED-04,Ibuprofeno 400mg,11,2800.0,2026-10-06
+MED-09,Salbutamol Inhalador 100mcg,3,18500.0,2026-10-08
+MED-04,Ibuprofeno 400mg,4,2800.0,2026-10-08
+MED-11,Azitromicina 500mg,12,15400.0,2026-10-18
+MED-09,Salbutamol Inhalador 100mcg,5,18500.0,2026-10-20
+MED-05,Metformina 850mg,11,3900.0,2026-10-21
+MED-04,Ibuprofeno 400mg,12,2800.0,2026-10-22
+MED-10,Enalapril 20mg,1,3600.0,2026-10-22
+MED-15,Insulina Glargina 100UI/ml,6,64000.0,2026-10-26
+MED-09,Salbutamol Inhalador 100mcg,5,18500.0,2026-10-28
+MED-04,Ibuprofeno 400mg,8,2800.0,2026-10-29
+MED-06,Omeprazol 20mg,6,3200.0,2026-11-02
+MED-14,Hidrocortisona Crema 1%,11,9500.0,2026-11-06
+MED-02,Losartán 50mg,10,4500.0,2026-11-10
+MED-11,Azitromicina 500mg,5,15400.0,2026-11-13
+MED-04,Ibuprofeno 400mg,12,2800.0,2026-11-14
